@@ -1,3 +1,7 @@
+---------------------
+PROJECT STRUCTURE
+---------------------
+```text
 loan-policy-optimization/
 │
 ├── notebooks/
